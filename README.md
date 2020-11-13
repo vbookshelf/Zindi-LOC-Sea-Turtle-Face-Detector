@@ -3,7 +3,7 @@ A method to detect sea turtle faces using a segmentation approach combined with 
 
 <br>
 
-<img src="http://bee.test.woza.work/assets/turtles1.png" width="1000"></img>
+<img src="http://bee.test.woza.work/assets/turtles1.png" width="700"></img>
 
 <br>
 
