@@ -14,4 +14,4 @@ The notebook included in this repo describes how to use a segmentation approach 
 
 The model produced a leaderboard IOU score of 0.828. It has a size of approx 27MB.
 
-It's possible to get a leaderboard score of approx. 0.87 by using a larger encoder network like Densenet161. However, I believe that even though this model's leaderboard score is slighly lower, its small size combined with Mobilenet's speed makes it a better candidate for use in a production system.
+It's possible to get a leaderboard score of approx. 0.87 by using a larger encoder network like Densenet161. However, I believe that even though this model's leaderboard score is slighly lower, its small size combined with MobileNet's speed makes it a better candidate for use in a production system.
